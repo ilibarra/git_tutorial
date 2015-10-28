@@ -1,2 +1,1 @@
-first change
-a_different_change
+new_branch_content
